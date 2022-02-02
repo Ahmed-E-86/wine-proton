@@ -1,0 +1,1 @@
+# wine-proton-amd64
